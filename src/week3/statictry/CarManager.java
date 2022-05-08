@@ -7,10 +7,10 @@ public class CarManager {
 		OyuncakAraba car=new OyuncakAraba();
 		OyuncakAraba car2=new OyuncakAraba();
 		
-		
+		System.out.println("asklajsga");
 		
 		car.sarjEt();
-		car.xEksenindeHareket();
+		
 		car.xEksenindeHareket();
 		car.yEksenindeHareket();
 		car.yEksenindeHareket();
